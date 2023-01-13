@@ -1,0 +1,13 @@
+name = "SimplePixelArt"
+uuid = "55e3b230-47a8-4062-894b-d1367929c139"
+authors = ["Siddharth Bhatia <sidb60200@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
